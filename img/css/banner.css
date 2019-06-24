@@ -1,0 +1,23 @@
+#banner {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-image: url('../../img/background5.jpg');
+  background-position: center center;
+}
+hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+h1 {
+  font-size: 2rem;
+  color: white;
+}
+h5 {
+  color: white;
+}
+p {
+  font-weight: 300;
+}
+/* #mainNav {
+  background-color: white;
+} */
